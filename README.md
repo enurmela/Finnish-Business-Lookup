@@ -9,6 +9,7 @@ FBL helps you look up Finnish businesses in Raycast using PRH YTJ open data.
 ## Features
 
 - Search by company name or Business ID
+- English and Finnish interface, following the device language with a manual override in extension settings
 - Business ID normalization (`01120389` -> `0112038-9`)
 - Safe query guards to avoid accidental full-dataset fetches
 - Pagination support with `Load More Results`
