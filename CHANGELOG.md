@@ -17,7 +17,7 @@ All notable changes to this project will be documented in this file.
 - Cached company records are remapped when displayed so changing the language also updates cached labels.
 - The YTJ search-page action opens the Finnish source page when Finnish is selected.
 
-## [More Readable Search Results] - {PR_MERGE_DATE}
+## [More Readable Search Results] - 2026-08-04
 
 ### Improved
 
